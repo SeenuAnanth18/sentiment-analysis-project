@@ -1,0 +1,7 @@
+streamlit
+textblob
+vaderSentiment
+transformers
+torch
+emoji
+google-api-python-client
